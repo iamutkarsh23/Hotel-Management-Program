@@ -1,6 +1,6 @@
 # Hotel Management Program
 
-A basic program created in relation to a project given to me in my highschool.
+A basic program created in relation to a project given to me in my Highschool.
 
 What is does:-
 - Creates a file when a new user creates an account in the hotel
